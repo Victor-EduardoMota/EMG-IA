@@ -39,4 +39,4 @@ Funcionalidades atuais
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/Victor-EduardoMota/EMG-IA
+git clone https://github.com/Victor-EduardoMota/EMG-IA
